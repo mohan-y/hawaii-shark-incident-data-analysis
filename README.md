@@ -1,24 +1,25 @@
-# Hawaii Shark Incident Data Analysis
-## Overview
+# 🏝️ Hawaii Shark Incident Data Analysis 🦈
+
+## Overview 
 This project involves the analysis of shark incident data from Hawaii, focusing on encounters where sharks actually bit a person or board. The dataset, sourced from the Hawaii Department of Land and Natural Resources, excludes cases of mere grazing and incidents classified as boat attacks or scavenging. The analysis aims to identify patterns and trends in these incidents to inform public safety measures.
 
-## Data
+## Data 📊
 The data includes details such as the date, location, activity during the incident, water clarity, water depth, victim information, description of the incident, and shark species involved. The data has been cleaned, standardized, and transformed for analysis.
 
-## Project Structure
+## Project Structure 
 - **data/**: Contains raw and cleaned data files.
 - **images/**: Directory for storing generated plots and visualizations.
 - **Jupyter Notebook**: Python scripts for data collection, processing, and visualization.
 - **README.md**: Project documentation.
 
-## Analysis
+## Analysis 
 The analysis consists of several steps:
 - **Data Collection**: Web scraping of shark incident data from the Hawaii Department of Land and Natural Resources website.
 - **Data Cleaning**: Parsing dates, handling missing values, and normalizing text.
 - **Data Transformation**: Converting measurements to standard units and categorizing activities.
 - **Data Visualization**: Creating charts and heatmaps to visualize trends and insights.
 
-## Key Findings
+## Key Findings 📈
 ### 1. Incidents Over Time
 There were notable upticks in shark incidents in the years **2013 and 2019**, suggesting periodic increases in shark activity or human encounters.
 
@@ -67,4 +68,6 @@ To view and run the analysis, clone the repository and use Jupyter Notebook:
     ```sh
     jupyter notebook
     ```
+## Acknowledgments
+This project uses data from the [Hawaii Department of Land and Natural Resources](https://dlnr.hawaii.gov/sharks/shark-incidents/incidents-list/). The analysis and insights are aimed at contributing to public awareness and safety regarding shark incidents.
 
