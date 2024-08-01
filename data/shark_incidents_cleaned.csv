@@ -1,0 +1,166 @@
+Activity,Water_Clarity,Water_Depth_ft,Victim,Date,Time,Island,Area,Shark_Species,Injury,Shark_Length_ft,Details,Distance_From_Shore_y
+Surfing,Turbid,,T. Perry,2024-06-24,,Oahu,Laie,Unknown,Fatal,,"Loss Of Right Forearm, Severe Lacerations To Right Thigh",
+Swimming,Clear,600.0,Confidential,2024-06-07,13:40:00,Oahu,Haleiwa,Unknown,Injury,,"Lacerations To Right Thigh, Forearm, And Hand. Considered A Provoked Incident.",
+Surfing,Turbid,,M. White,2024-03-04,16:55:00,Oahu,Waikiki,Tiger Shark,No Injury,9.0,Shark Bit Tail Of Surfboard.,350.0
+Swimming,Turbid,,Confidential,2024-03-02,13:25:00,Oahu,Kaaawa,Unknown,Injury,9.84,Lacerations To Left Foot.,2.5
+Surfing,Turbid,,J. Carter,2023-12-30,11:10:00,Maui,Paia Bay,Unknown,Fatal,9.0,Loss Of Left Leg.,150.0
+Surfing,Turbid,,Confidential,2023-10-25,15:05:00,Oahu,Haleiwa,Tiger Shark,Injury,26.25,Laceractions To Right Thigh.,185.0
+Surfing,Turbid,20.0,K. Kanehe,2023-10-15,16:00:00,Kauai,Hanalei Bay,Tiger Shark,Injury,32.81,Deep Lacerations And Puncture Wounds To Left Leg.,370.0
+Surfing,Turbid,,K. Cole,2023-10-02,13:00:00,Maui,Kuau Bay,Galapagos Shark,No Injury,11.0,Shark Bit Tail Of Surfboard,50.0
+Surfing,Clear,,M. Morita,2023-04-09,06:50:00,Oahu,Kewalo,Tiger Shark,Injury,9.0,Severe Injuries To Lower Right Leg Resulting In Loss Of Foot.,200.0
+Swimming,Turbid,,L. Livingston,2023-03-19,12:30:00,Hawaii,Anaehoomalu,Blacktip Reef Sharks,Injury,5.0,Lacerations To Back Of Left Knee And Left Hand. Two Sharks Involved.,250.0
+Swimming,Clear,1800.0,A. Walberer,2023-03-19,23:55:00,Molokai,Kaiwi Channel,Cookiecutter Sharks,Injury,1.67,Semi-Circular Puncture Wounds To Chest And Abdomen. Two Sharks Involved.,21120.0
+Stand-Up Paddleboarding,Clear,200.0,"P. Wardle, M. Valentine",2023-02-19,11:30:00,Maui,Kihei,Tiger Shark,No Injury,13.5,Shark Bit Back Of Inflatable Sup,1760.0
+Swimming,Clear,10.0,J. Ellis,2022-12-13,08:00:00,Hawaii,Anaehoomalu,Unknown,Injury,,Lacerations To Lower Left Torso And Right Thumb.,170.0
+Snorkeling,Turbid,,K. Allen,2022-12-08,12:00:00,Maui,Kihei,Unknown,Fatal,,Victim Not Recovered.,50.0
+Snorkeling,Turbid,,S. Hill,2022-10-25,16:00:00,Kauai,Lihue,Unknown,No Injury,,Shark Bit Off Part Of Swim Fin.,17.5
+Surfing,Clear,60.0,A. King,2022-10-18,11:00:00,Oahu,Kaaawa,Unknown,Injury,22.97,Laceration To Right Big Toe.,700.0
+Scuba Diving,Clear,,Confidential,2022-09-09,14:40:00,Hawaii,Kailua-Kona,Blacktip Shark,Injury,7.5,Lacerations And Puncture Wounds On Left Calf And Ankle. Considered A Provoked Incident.,1760.0
+Snorkeling,Turbid,,Confidential,2022-09-03,16:00:00,Maui,Paia Bay,Unknown,Injury,,Loss Of Left Arm Below Shoulder And Index And Middle Fingers On Right Hand; Puncture Wounds To Left Side Of Torso.,20.0
+Scuba Diving,Clear,200.0,Confidential,2022-03-21,14:00:00,Hawaii,Kailua-Kona,Galapagos Shark,Injury,6.0,Puncture Wound On Right Big Toe. Considered A Provoked Incident.,1760.0
+Floating,Clear,1200.0,Confidential,2022-02-09,,Hawaii,Kailua-Kona,Cookiecutter Shark,Injury,,Bitten On Right Foot And Calf.,2640.0
+Surfing,Turbid,6.0,J. Willeford,2021-12-04,18:00:00,Hawaii,Kailua-Kona,White Shark,Injury,49.21,Lacerations To Left Forearm.,130.0
+Spearfishing,Turbid,60.0,Confidential,2021-11-07,10:30:00,Maui,Lahaina,Requiem Shark,Injury,5.0,Lacerations To Upper Right Thigh. Considered A Provoked Incident.,200.0
+Surfing,Turbid,,Confidential,2021-05-15,16:40:00,Maui,Kanaha,Tiger Shark,Injury,6.5,Minor Lacerations And Puncture Wounds To Lower Back. Considered A Provoked Incident.,450.0
+Surfing,Clear,3.0,P. Blanchette,2021-05-03,15:30:00,Oahu,Kaneohe,Requiem Shark,Injury,5.5,Multiple Lacerations To Left Leg Below Knee.,10.0
+Swimming,Clear,60.0,T. Abrams,2021-04-20,08:50:00,Hawaii,Kukio Bay,Tiger Shark,Injury,9.0,Laceration To Right Leg Below Knee.,500.0
+Surfing,Clear,,G. Klein,2021-02-06,16:30:00,Kauai,Waiokapua Bay,Tiger Shark,No Injury,13.0,Shark Bit Nose Of Surfboard.,100.0
+Swimming,Turbid,,G. Weisbecker,2021-01-22,07:20:00,Maui,Kaanapali,Tiger Shark,Injury,9.0,Lacerations To Lower Right Leg.,90.0
+Swimming,Clear,,Confidential,2021-01-02,07:30:00,Hawaii,Anaehoomalu,Unknown,Injury,,Lacerations To Lower Right Leg.,200.0
+Surfing,Turbid,10.0,R. Warren,2020-12-08,07:55:00,Maui,Honolua Bay,Tiger Shark,Fatal,45.93,Severe Lacerations To Left Leg.,20.0
+Stand-Up Paddleboarding,Turbid,,Confidential,2020-12-04,07:45:00,Hawaii,Waikoloa,Unknown,No Injury,19.69,Shark Bit Tail Of Sup,
+Snorkeling,Turbid,12.0,Confidential,2020-11-26,14:55:00,Maui,Honokowai,Tiger Shark,Injury,,"Severe Lacerations To Torso, Left Arm, And Forehead.",75.0
+Snorkeling,Turbid,8.0,C. Christensen,2020-09-06,16:00:00,Hawaii,Puako,Requiem Shark,Injury,9.0,Lacerations To Left Ankle.,100.0
+Surfing,Turbid,,D. Moore,2020-06-01,08:25:00,Kauai,Kekaha,Unknown,Injury,,Laceration To Right Hand,100.0
+Stand-Up Paddleboarding,Clear,,Confidential,2020-02-05,09:45:00,Maui,Kihei,Tiger Shark,No Injury,32.81,Shark Bit Tail Of Sup,300.0
+Stand-Up Paddleboarding,Clear,,L. Oberto,2019-12-03,10:00:00,Maui,Kihei,Tiger Shark,No Injury,11.0,Shark Bit Back Of Inflatable Sup,176440.0
+Surfing,Turbid,,Confidential,2019-09-26,09:00:00,Maui,Kihei,Tiger Shark,No Injury,9.0,Shark Bit Tail Of Surfboard.,132440.0
+Swimming,Clear,600.0,L. Russell,2019-09-18,10:10:00,Oahu,Haleiwa,Galapagos Shark,Injury,7.0,Puncture Wounds And Laceration To Right Hand. Considered A Provoked Incident.,5280.0
+Swimming,Clear,600.0,Confidential,2019-09-18,10:10:00,Oahu,Haleiwa,Galapagos Shark,Injury,7.0,Puncture Wounds To Right Chest And Shoulder. Considered A Provoked Incident,5280.0
+Swimming,Clear,600.0,R. Russell,2019-09-18,10:10:00,Oahu,Haleiwa,Galapagos Or Sandbar,Injury,,Puncture Wounds To Right Arm Near Elbow. Considered A Provoked Incident.,5280.0
+Swimming,Turbid,,Confidential,2019-08-20,08:00:00,Hawaii,Kealakekua Bay,Unknown,Injury,,Bitten On Back Of Lower Torso.,15.0
+Surfing,Turbid,,M. Keliikipi,2019-08-11,19:00:00,Oahu,Makaha Beach,Unknown,No Injury,,Shark Bit Nose Of Surfboard.,100.0
+Swimming,Clear,,Confidential,2019-07-29,22:25:00,Oahu,Kaiwi Channel,Cookiecutter Shark,Injury,,Bitten On Inner Left Thigh.,19360.0
+Swimming,Clear,,T. Smiley,2019-05-25,08:45:00,Maui,Honokowai,Unknown,Fatal,,Loss Of Left Leg At Knee. Lacerations To Left Arm And Hand.,120.0
+Swimming,Clear,600.0,Confidential,2019-05-08,,Oahu,Haleiwa,Requiem Shark,Injury,,Bitten On Left Arm And Hand. Considered A Provoked Incident.,5280.0
+Paddling,Clear,30.0,K. Bishop,2019-04-23,08:30:00,Hawaii,Anaehoomalu,Requiem Shark,Injury,7.0,"Severe Lacerations To Inner Right Thigh, Lacerations And Puncture Wounds To Inner Right Calf.",35.0
+Swimming,Clear,,I. Mojica,2019-04-06,01:00:00,Oahu,Kaiwi Channel,Cookiecutter Shark,Injury,3.28,Bitten On Back Just Below Left Shoulder.,21120.0
+Swimming,Clear,,E. Schall,2019-03-16,03:30:00,Oahu,Kaiwi Channel,Cookiecutter Shark,Injury,,Bitten On Lower Abdomen.,21120.0
+Surfing,Turbid,,Confidential,2019-02-04,13:30:00,Kauai,Hanalei Bay,Tiger Shark,Injury,,"Large Avulsion Above Left Knee, Additional Puncture Wounds To Left Leg.",320.0
+Surfing,Turbid,,J. Perkins,2018-09-08,08:25:00,Oahu,Laie,Tiger Shark,Injury,39.37,Lacerations To Right Forearm.,1760.0
+Body Boarding,Clear,,D. McWilliams,2018-04-19,08:00:00,Kauai,Poipu,Tiger Shark,Injury,26.25,Puncture Wounds With Slight Avulsions To Inner Right Thigh.,50.0
+Stand-Up Paddleboarding,Turbid,25.0,Confidential,2018-03-31,09:30:00,Hawaii,North Kona,Tiger Shark,Injury,39.37,Severe Lacerations To Right Forearm And Hand; Loss Of Right Leg Below Knee.,125.0
+Surfing,Clear,,M. Mariano,2017-12-31,18:00:00,Oahu,Kawailoa,Tiger Shark,Injury,11.0,Lacerations To Back Of Left Thigh.,25.0
+Surfing,Clear,6.0,G. Ellis,2017-11-02,14:15:00,Oahu,Makaha Beach,Unknown,Injury,26.25,Lacerations To Left Leg Below Knee.,30.0
+Stand-Up Paddleboarding,Turbid,12.0,T. Rodman,2017-10-26,14:10:00,Oahu,Kalaeloa,Tiger Shark,No Injury,26.25,Shark Bit Tail Of Sup.,200.0
+Surfing,Turbid,8.0,M. Milan,2017-10-09,17:45:00,Kauai,Kekaha,Tiger Shark,Injury,,Minor Lacerations To Left Hand.,150.0
+Surfing,Turbid,,Confidential,2017-04-14,09:15:00,Kauai,Kekaha,Tiger Shark,Injury,10.5,Severe Injuries To Lower Right Leg.,120.0
+Swimming,Clear,15.0,B. Zawacki,2016-11-14,10:00:00,Maui,Kihei,Unknown,Injury,,Multiple Lacerations To Right Leg.,15.5
+Surfing,Turbid,,F. Jaime,2016-10-21,16:50:00,Maui,Paia,Unknown,Injury,7.0,"Lacerations To Left Arm, Hand, And Leg.",100.0
+Swimming,Turbid,7.0,Confidential,2016-10-14,09:50:00,Maui,Kihei,Unknown,Injury,,"Severe Deep Lacerations To Lower Left Leg, Minor Lacerations To Left Foot.",1.0
+Swimming,Unknown,,Confidential,2016-09-07,14:25:00,Oahu,Makaha Beach,Unknown,Injury,,"Lacerations To Right Shoulder, Upper Back, And Right Forearm.",300.0
+Stand-Up Paddleboarding,Turbid,,C. Baxter,2016-08-06,16:30:00,Maui,Paia,Tiger Shark,No Injury,32.81,Shark Bit Sup Hydrofoil.,1760.0
+Surfing,Turbid,6.0,Confidential,2016-06-15,05:35:00,Kauai,Lihue,Requiem Shark,Injury,3.0,Minor Puncture Wound To Upper Right Arm.,30.0
+Floating,Turbid,,Confidential,2016-05-03,15:50:00,Maui,Wailea Beach,Unknown,Injury,,Minor Lacerations To Right Shoulder.,40.0
+Snorkeling,Turbid,,J. Orr,2016-03-31,11:00:00,Maui,Olowalu,Tiger Shark,Injury,8.0,Minor Laceration To Left Foot.,425.0
+Surfing,Clear,,Confidential,2016-01-28,14:00:00,Kauai,Hanalei Bay,Requiem Shark,Injury,5.0,Lacerations To Both Hands.,120.0
+Stand-Up Paddleboarding,Clear,30.0,M. Mason,2016-01-23,10:30:00,Maui,Wailea Beach Point,Tiger Shark,No Injury,11.0,Shark Bit Tail Of Sup.,175.0
+Stand-Up Paddleboarding,Clear,,R. Ford,2015-12-22,08:30:00,Hawaii,Kailua-Kona,Unknown,No Injury,9.0,Shark Bit Tail Of Sup.,600.0
+Swimming,Turbid,,P. O'Leary,2015-11-03,10:30:00,Hawaii,Puna,Unknown,Injury,,Lacerations To Right Foot.,125.0
+Spearfishing,Turbid,25.0,Confidential,2015-10-31,15:30:00,Lanai,Poaiwa Beach,Tiger Shark,No Injury,11.0,Shark Bit Weight Belt. Considered A Provoked Incident Due To Activity.,300.0
+Body Boarding,Turbid,20.0,R. Senensi,2015-10-28,,Oahu,Makaha Beach,Tiger Shark,Injury,32.81,Lacerations And Puncture Wounds To Right Leg.,55.0
+Swimming,Turbid,,A. Lee,2015-10-17,11:20:00,Oahu,Kailua,Tiger Shark,Injury,11.0,Severe Injuries To Both Lower Legs.,600.0
+Surfing,Clear,,C. Cook,2015-10-09,10:00:00,Oahu,Kawailoa,Tiger Shark,Injury,11.0,Severely Bitten On Left Leg; Loss Of Leg At Knee; Lacerations To Both Hands.,175.0
+Spearfishing,Turbid,25.0,B. Rocha,2015-09-20,15:30:00,Hawaii,North Kohala,Tiger Shark,Injury,42.65,Extensive Lacerations To Left Leg Above And Below Knee. Considered A Provoked Incident Due To Activity.,60.0
+Snorkeling,Turbid,,M. Cruse,2015-04-29,,Maui,Ahihi Bay,Unknown,Fatal,,Severe Deep Lacerations To Right Shoulder And Underarm; Minor Lacerations To Right Arm And Right Side Of Face.,200.0
+Standing,Turbid,,K. Grasing,2015-03-18,11:30:00,Hawaii,South Kohala,Tiger Shark,Injury,29.53,Extensive Laceration To Left Forearm; Lacerations To Left Hand And Thigh.,20.0
+Fishing,Turbid,,M. Pollard,2015-01-27,03:30:00,Maui,Pali Scenic Lookout,Requiem Shark,Injury,4.0,Lacerations To Left Calf. Considered A Provoked Incident Due To Activity.,
+Snorkeling,Clear,20.0,A. Haas,2014-11-13,13:30:00,Maui,Kaanapali,Unknown,Injury,,Laceration To Upper Left Leg.,100.0
+Surfing,Turbid,10.0,M. Clark,2014-10-31,10:20:00,Hawaii,Kohala,Tiger Shark,Injury,39.37,Lacerations To Three Fingers Of Left Hand.,150.0
+Stand-Up Paddleboarding,Turbid,,K. Lawrence,2014-10-22,10:00:00,Maui,Kihei,Tiger Shark,No Injury,,Shark Bit Tail Of Board.,200.0
+Stand-Up Paddleboarding,Turbid,,Confidential,2014-10-20,08:00:00,Maui,Kahului Harbor,Unknown,No Injury,,Shark Bit Board.,50.0
+Surfing,Muddy,,K. Roberson,2014-10-18,11:15:00,Maui,Maalaea,Tiger Shark,No Injury,,Shark Bit Side Of Board.,100.0
+Swimming,Clear,,Confidential,2014-07-16,17:20:00,Maui,Paia Bay,Requiem Shark,Injury,6.5,Lacerations To Left Foot.,225.0
+Body Boarding,Turbid,10.0,Confidential,2013-12-11,08:00:00,Hawaii,Punaluu,Tiger Shark,Injury,11.0,Lacerations To Right Knee And Right Hand.,20.0
+Fishing,Clear,100.0,P. Briney,2013-12-02,10:20:00,Maui,Makena,Unknown,Fatal,,Severe Deep Laceration And Loss Of Tissue On Right Calf. Considered A Provoked Incident Due To Activity.,900.0
+Snorkeling,Turbid,,Confidential,2013-11-29,13:00:00,Maui,Kihei,Unknown,Injury,,"Extensive Laceration To Right Inner Calf, Minor Lacerations And Puncture Wounds To Right Shin And Ankle.",35.0
+Surfing,Turbid,,Confidential,2013-10-31,15:20:00,Maui,Kanaha,Unknown,Injury,,"Deep Laceration To Lower Right Calf, Smaller Lacerations To Right Ankle. 10-15 Foot Tiger Shark Seen In Area.",750.0
+Swimming,Turbid,10.0,S. Mills,2013-10-23,15:55:00,Maui,Waiehu,Whitetip Reef Shark,Injury,5.0,Shallow Lacerations To Left Lower Torso And Upper Thigh.,170.0
+Surfing,Clear,20.0,J. Horton,2013-10-20,11:00:00,Kauai,Pilaa Beach,Tiger Shark,No Injury,12.0,Shark Bit Side Of Board.,200.0
+Surfing,Clear,20.0,J. Napeahi,2013-08-18,13:30:00,Hawaii,Puna,Tiger Shark,Injury,9.0,Lacerations To Upper Thighs.,50.0
+Snorkeling,Turbid,,J. Lutteropp,2013-08-14,16:30:00,Maui,Makena,Unknown,Fatal,,"Loss Of Right Arm Below Shoulder, Lacerations To Right Foot.",50.0
+Snorkeling,Turbid,10.0,E. Cashman,2013-07-31,08:15:00,Maui,Wailea,Unknown,Injury,,Puncture Wounds To Both Surfaces Of Right Side Of Torso And Lacerations To Right Hand.,125.0
+Surfing,Turbid,10.0,K. Gatewood,2013-07-29,14:00:00,Oahu,Kalaeloa,Tiger Shark,Injury,9.0,Lacerations To Left Leg.,20.0
+Swimming,Clear,10.0,J. Kerrigan,2013-06-18,12:50:00,Hawaii,Kekaha Kai,Tiger Shark,Injury,12.0,Lacerations To Right Leg.,100.0
+Surfing,Clear,6.0,Confidential,2013-04-02,08:20:00,Maui,Kaanapali,Unknown,Injury,,Lacerations To Right Leg.,100.0
+Surfing,Muddy,,J. Lansky,2013-02-21,18:00:00,Maui,Paia Bay,Requiem Shark,No Injury,6.0,Shark Bit Rail Of Foam Surfboard.,75.0
+Surfing,Turbid,10.0,P. Santos,2013-01-16,16:30:00,Hawaii,Kiholo Bay,Tiger Shark,Injury,12.0,"Severe Lacerations To Right Forearm, Superficial Laceration To Lower Right Leg.",200.0
+Surfing,Unknown,,Confidential,2012-12-05,13:20:00,Kauai,Pakala,Unknown,Injury,10.0,Injuries To Left Foot.,
+Snorkeling,Turbid,20.0,T. Kennedy,2012-11-30,09:40:00,Maui,Kihei,Tiger Shark,Injury,10.0,Lacerations To Lower Left Leg And Foot.,500.0
+Spearfishing,Turbid,,M. Riglos,2012-11-04,08:00:00,Maui,Waiehu,Tiger Shark,Injury,44.29,"Severe Lacerations To Right Leg Above Ankle, Also Resulting In Broken Bones. Considered Unprovoked Because No Fish Had Been Speared, And No Attractant Was In Water.",500.0
+Surfing,Turbid,8.0,Confidential,2012-11-04,08:00:00,Kauai,Kekaha,Tiger Shark,No Injury,32.81,Shark Bit Tail Of Board.,150.0
+Snorkeling,Clear,12.0,M. Haugen,2012-10-27,15:45:00,Maui,Makena Landing,Tiger Shark,Injury,12.0,Lacerations To Upper Right Thigh; Defensive Lacerations To Right Hand.,15.0
+Stand-Up Paddleboarding,Clear,6.0,D. Peterson,2012-10-18,07:30:00,Maui,Kahului,Tiger Shark,No Injury,11.0,Shark Bit Side Of Board.,300.0
+Spearfishing,Turbid,,M. Malabon,2012-09-02,12:00:00,Maui,Spreckelsville,Tiger Shark,Injury,11.0,Minor Laceration To Hand. Considered A Provoked Incident Due To Activity.,800.0
+Surfing,Turbid,,S. Stotts,2012-07-30,16:35:00,Kauai,Poipu,Unknown,Injury,,Laceration And Puncture Wounds To Left Foot.,100.0
+Swimming,Turbid,,S. St. Claire,2012-06-26,10:00:00,Maui,Kahana,Requiem Shark,Injury,,Laceration And Puncture Wounds To Left Calf.,3.0
+Surfing,Turbid,,J. Holley,2012-04-03,12:30:00,Oahu,Kawailoa,Tiger Shark,Injury,10.0,Lacerations To Left Foot.,37.5
+Snorkeling,Clear,,J. Graden,2012-01-27,11:05:00,Lanai,Keomuku,Unknown,No Injury,7.0,Shark Bit End Of Fin.,500.0
+Surfing,Turbid,6.0,M. Felipe,2011-09-04,11:30:00,Oahu,Kalaeloa,Tiger Shark,No Injury,10.0,Shark Bit Tail Of Board.,30.0
+Surfing,Turbid,10.0,T. Fernandez,2011-05-25,13:15:00,Hawaii,Kailua-Kona,Tiger Shark,No Injury,10.0,Shark Bit Tail Of Board.,10.0
+Stand-Up Paddleboarding,Clear,,A. DeBina,2011-05-22,11:15:00,Hawaii,Kailua-Kona,Tiger Shark,No Injury,10.0,"Shark Knocked Victim And Child Off Board, Then Bit Side Of Board.",10.0
+Surfing,Clear,,V. Stover-French,2010-12-26,15:30:00,Maui,Kahului Harbor,Tiger Shark,Injury,9.0,Lacerations To Left Shin And Foot.,300.0
+Swimming,Turbid,,Confidential,2010-12-12,13:50:00,Maui,Paia,Requiem Shark,Injury,,Lacerations To Right Foot.,75.0
+Surfing,Clear,8.0,J. Rawlinson,2010-04-19,16:00:00,Kauai,Hanalei Bay,Tiger Shark,No Injury,,"Shark Bit Off Section Of Surfboard, Left Side Of Tail.",400.0
+Surfing,Turbid,6.0,S. Henrich,2009-10-19,06:00:00,Maui,Kihei,Tiger Shark,Injury,,Lacerations To Right Leg From Thigh To Ankle.,300.0
+Surfing,Turbid,,D. Crawford,2009-08-06,08:45:00,Hawaii,Kau,Tiger Shark,No Injury,9.0,"Shark Bit Off Section Of Surfboard, Left Side Of Nose.",50.0
+Swimming,Clear,,M. Spalding,2009-03-16,20:03:00,Hawaii,Approx 10 Miles Northwest Of Upolu Pt,Cookiecutter Shark,Injury,,Bitten On Lower Chest And Left Calf. First Documented And Confirmed Bite By A Cookiecutter Shark On A Live Human.,17600.0
+Surfing,Turbid,10.0,T. Murashige,2008-09-09,16:30:00,Oahu,Kaaawa,Unknown,Injury,,Bitten On Right Thigh And Ankle.,500.0
+Wading,Turbid,3.0,U. Mataafa,2008-07-26,15:30:00,Maui,Kaanapali,Data Insufficient.,Injury,,"Lacerations To Left Calf. Not Confirmed As Shark Bite, So Not Included In Accompanying Graphics.",10.0
+Surfing,Turbid,,T. Ramirez,2007-12-10,11:00:00,Oahu,Haleiwa,Tiger Shark,No Injury,7.0,Shark Bit Tail Of Surfboard After Apparently Becoming Caught In Leash. Considered A Provoked Incident Due To The Interaction With The Leash.,200.0
+Swimming,Turbid,25.0,A. Finley,2007-10-29,15:30:00,Maui,Kihei,Unknown,Injury,11.0,Laceration To Left Calf.,30.0
+Body Boarding,Turbid,,J. Sumait,2007-08-28,16:30:00,Oahu,Kaaawa,Tiger Shark,Injury,11.0,Laceration To Heel Of Right Foot.,400.0
+Snorkeling,Clear,,H. Miller,2007-07-19,15:00:00,Oahu,Waimanalo,Tiger Shark,Injury,8.0,Severely Bitten On Left Knee And Calf.,150.0
+Surfing,Clear,,E. Yamada,2007-06-24,07:05:00,Oahu,Mokuleia,Tiger Shark,No Injury,6.0,Shark Bit Right Side Of Surfboard As Victim Was Paddling. Abandoned Fishing Net In Channel.,50.0
+Snorkeling,Clear,,P. Marion,2007-05-07,08:00:00,Maui,Wailea,Unknown,Injury,,Bitten On Right Foot And Calf.,25.0
+Surfing,Clear,,R. Read,2007-01-05,11:00:00,Kauai,Mana,Tiger Shark,No Injury,9.0,Shark Bit Right Side Of Surfboard As Victim Was Sitting On Board.,50.0
+Swimming,Clear,20.0,K. Gruen,2006-11-11,13:00:00,Maui,Kihei,Unknown,Injury,9.0,Bitten On Left Thigh And Hand.,10.0
+Spearfishing,Clear,,R. Deguilmo,2006-05-31,13:30:00,Oahu,Kawailoa,Tiger Shark,Injury,9.0,Bitten On Left Forearm. Considered A Provoked Incident Due To Activity.,150.0
+Spearfishing,Clear,,A. Balmaceda,2006-05-24,16:30:00,Lanai,Club Lanai,Gray Reef Shark,Injury,3.0,Bitten On Left Knee After Poking Shark With Spear. Considered A Provoked Incident For Obvious Reasons.,
+Surfing,Turbid,6.0,E. Dunn,2006-03-23,11:30:00,Oahu,Kawailoa,Tiger Shark,Injury,10.0,Puncture Wounds To Left Calf.,130.0
+Wading,Turbid,,N. Raleigh,2006-02-27,16:30:00,Maui,Makena,Requiem Shark,Injury,8.0,Multiple Wounds To Right Leg.,10.0
+Swimming,Clear,30.0,J. Genant,2005-12-21,11:30:00,Maui,Keawakapu,Unknown,Injury,8.0,Loss Of Top Part Of Ring Finger And All Of Small Finger Of Left Hand.,300.0
+Surfing,Turbid,,C. Sado,2005-10-13,18:00:00,Maui,Honokowai,Tiger Shark,No Injury,8.0,Shark Bit Surfboard.,100.0
+Surfing,Clear,6.0,S. Hoyt,2005-05-02,10:30:00,Maui,Paia,Tiger Shark,No Injury,,Shark Bit Surfboard Rail.,70.0
+Surfing,Clear,10.0,G. Long,2005-02-16,14:30:00,Oahu,Sunset Beach,Tiger Shark,No Injury,8.0,Shark Bit Board From Below With Considerable Force. First Incident In Which Species Id Was Confirmed By Dna.,40.0
+Spearfishing,Turbid,,D. Sanada,2004-10-09,12:30:00,Molokai,Pukoo,Tiger Shark,Injury,10.0,Lacerations To Left Side Of Face And Tissue Loss From Left Shoulder. Considered A Provoked Incident Due To Activity.,400.0
+Surfing,Turbid,10.0,W. McInnis,2004-04-07,07:13:00,Maui,Kahana,Unknown,Fatal,,Severe Wound To Right Leg Involving Thigh And Calf.,100.0
+Snorkeling,Turbid,6.0,C. Mooney,2004-03-24,10:00:00,Hawaii,Punaluu,Tiger Shark,Injury,8.0,Lacerations To Left Foot.,3.33
+Surfing,Turbid,10.0,B. Orth,2004-03-16,07:45:00,Kauai,Kalihiwai,Unknown,No Injury,10.0,Bite Marks In Surfboard.,25.0
+Surfing,Clear,,B. Hamilton,2003-10-31,07:30:00,Kauai,Haena,Tiger Shark,Injury,49.21,Loss Of Left Arm Below Shoulder.,425.0
+Wading,Turbid,,C. Alo,2003-10-05,12:55:00,Maui,Kihei,Unknown,Injury,4.5,"Bitten On Left Thigh, Right Knee, And Right Index Finger. Unattended Gill Net Nearby.",10.0
+Snorkeling,Clear,,J. Marrack,2003-06-24,08:00:00,Oahu,Makua,Species Uncertain,Injury,13.0,Bitten On Right Foot While Snorkeling With Dolphins.,75.0
+Swimming,Unknown,8.0,K. Paulo,2003-05-10,12:45:00,Hawaii,Kahaluu,Requiem Shark,Injury,6.5,"Bitten On Right Lower Calf, Ankle, And Foot.",1.67
+Swimming,Turbid,6.0,J. Glance,2002-11-17,10:45:00,Maui,Honokowai,Unknown,Injury,9.0,Bitten On Right Shoulder And Forearm.,100.0
+Swimming,Turbid,,K. Miller,2002-10-30,11:00:00,Maui,Kihei,Requiem Shark,Injury,,Bitten On Left Foot.,20.0
+Fishing,Clear,25.0,A. Lum,2002-09-27,15:35:00,Oahu,Kahala,Tiger Shark,No Injury,9.0,Shark Came From Side And Bit Rail Of Surfboard As Fisher Pushed Board Into Underside Of Approaching Shark'S Snout. Considered A Provoked Incident Due To Activity.,33.33
+Body Boarding,Clear,,Anonymous,2002-09-16,07:50:00,Kauai,Princeville,Data Insufficient.,No Injury,,"Shark Fin Seen Just Before Body Board Ripped Away And Dragged Out To Sea. Not Confirmed As Shark Incident, So Not Included In Accompanying Graphics.",
+Surfing,Turbid,20.0,S. Farden,2002-08-28,15:45:00,Oahu,Kewalo,Tiger Shark,Injury,10.0,Bitten On Left Foot While Duck-Diving Under Wave; Shark Grabbed Tail Of Board And Shook Laterally.,1.5
+Surfing,Unknown,,C. Levin,2002-06-11,13:45:00,Kauai,Anini Beach,Tiger Shark,No Injury,8.5,Shark Came From Behind And Bit Side Of Surfboard As Victim Was Sitting On Board.,100.0
+Body Boarding,Turbid,,H. Aki,2002-03-25,,Kauai,Brennecke'S Beach,Tiger Shark,Injury,9.0,Severely Bitten On Lower Left Leg; Left Foot Lost Above Ankle.,40.0
+Snorkeling,Clear,,T. Holmes,2002-01-01,13:00:00,Maui,Olowalu,Tiger Shark,Injury,7.0,Bitten On Buttocks.,100.0
+Surfing,Clear,,M. Schweitzer,2001-11-14,17:00:00,Maui,Kapalua,Unknown,No Injury,,Portion Of Board'S Lower Surface Removed.,
+Surfing,Turbid,10.0,G. Dano,2001-04-11,07:00:00,Oahu,Ewa Beach,Whitetip Reef Shark,Injury,3.0,Bitten On Left Hand.,
+Body Boarding,,,M. Mendez,2001-03-23,14:40:00,Oahu,Sandy Beach,Requiem Shark,Injury,4.0,Bitten On Left Hand. Portion Of Body Board'S Left Front Corner Removed.,35.0
+Snorkeling,Clear,,H. Musselwhite,2000-10-18,11:20:00,Maui,Olowalu,Unknown,Injury,7.0,Bitten On Upper Right Torso And Right Buttock.,450.0
+Surfing,Clear,70.0,J. Goenvec,2000-08-15,11:50:00,Maui,Kanaha,Tiger Shark,Injury,12.0,Severely Bitten On Lower Left Leg When Struck After Falling Off Board And Shaking Sand Out Of Boots. Tooth Fragments Recovered.,1232.0
+Swimming,Clear,12.0,L. Boyett,1999-11-23,17:15:00,Hawaii,Kona,Unknown,Injury,10.0,Severely Bitten On Right Buttock; Also Lacerations To Hands When Victim Reached For Shark'S Mouth.,275.0
+Surfing,Clear,,J. Spencer,1999-10-01,18:30:00,Hawaii,Old Kona Airport,Tiger Shark,Injury,9.0,Severely Bitten On Right Arm Above And Below Elbow When Struck From Side While Lying On Surfboard.,80.0
+Swimming,Unknown,,S. Watkins,1999-08-09,13:30:00,Oahu,Mokulua Island,Requiem Shark,Injury,,Minor Injury To Right Foot.,
+Surfing,Turbid,6.0,G. Yamaguchi,1999-07-21,10:25:00,Hawaii,Honolii,Unknown,Injury,7.0,Bitten On Right Thigh And Buttocks When Struck From Side And Behind While Lying On Surfboard.,
+Swimming,Clear,75.0,R. Knutson,1999-03-05,10:45:00,Maui,Kaanapali,Species And Length Uncertain.,Injury,,"Severely Bitten On Leg From Hip To Knee; Substantial Tissue Loss. Witness Reported 16-Foot White Shark, But Not Confirmed.",400.0
+Body Boarding,Muddy,,M. Coots,1997-10-28,07:00:00,Kauai,Waiokapua Bay,Tiger Shark,Injury,12.0,Bitten On Both Legs And Right Hand; Loss Of Lower Part Of Right Leg.,125.0
+Spearfishing,Unknown,,Confidential,1997-06-25,23:00:00,Oahu,Sunset Beach,Unknown,Injury,8.0,Bitten On Left Leg Just Above Ankle While Night Diving With A Fish Stringer On Left Side. Considered Provoked Due To Activity.,40.0
+Body Boarding,Unknown,,D. Nanod,1996-08-29,16:00:00,Maui,Paukukalo,Tiger Shark,Injury,8.0,"Bitten On Right Calf; Shark Approached From Behind And Was ""Thrashing Around"" While Biting Victim.",100.0
+Snorkeling,Clear,15.0,R. Rogowicz,1996-01-16,15:45:00,Maui,Napili,Unknown,Injury,10.0,Bitten On Top Of Left Foot And Right Shin.,100.0
+Swimming,Turbid,20.0,D. Bloom,1995-06-13,11:50:00,Maui,Wailea,Tiger Shark,Injury,11.0,Small Punctures And Scratches On Left Side Above Waist; Victim Kicked Shark In Midsection.,200.0
