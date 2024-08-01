@@ -1,4 +1,4 @@
-<h1 align="center">🏝️ Hawaii Shark Incident Data Analysis 🦈</h1>
+# 🏝️ Hawaii Shark Incident Data Analysis 🦈
 
 ## Overview 
 This project involves the analysis of shark incident data from Hawaii, focusing on encounters where sharks actually bit a person or board. The dataset, sourced from the Hawaii Department of Land and Natural Resources, excludes cases of mere grazing and incidents classified as boat attacks or scavenging. The analysis aims to identify patterns and trends in these incidents to inform public safety measures.
@@ -68,4 +68,6 @@ To view and run the analysis, clone the repository and use Jupyter Notebook:
     ```sh
     jupyter notebook
     ```
+## Acknowledgments
+This project uses data from the [Hawaii Department of Land and Natural Resources](https://dlnr.hawaii.gov/sharks/shark-incidents/incidents-list/). The analysis and insights are aimed at contributing to public awareness and safety regarding shark incidents.
 
